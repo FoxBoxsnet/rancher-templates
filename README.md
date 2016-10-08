@@ -1,5 +1,17 @@
 # rancher-templates
 ## HOW TO.
+### Add catalogIcon
+![](./images/01.png)
++ Click `ADMIN` → `Settings`
++ Click `Add Catalog`
+
+| Name | variables |
+|:-|:-|
+| Name | Mytemplates |
+| URL | [https://github.com/airforon/rancher-templates.git](https://github.com/airforon/rancher-templates.git) |
+
+### Catalog Use
+![](./images/02.png)
 
 
 
