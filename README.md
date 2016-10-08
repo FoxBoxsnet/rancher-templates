@@ -12,11 +12,14 @@
 
 ### Catalog Use
 ![](./images/02.png)
+  
++　Click `CATALOG` Click `Mytemplates`
+  
+![](./images/03.png)
 
 
 
-## owncloud test ver
-![](./templates/owncloud/catalogIcon-owncloud.svg)
+## ownCloud test Ver
 + Version
   + latest
   + 9.1.1
@@ -29,3 +32,6 @@
   + 8.1.10-fpm
   + 8.0.15
   + 8.0.15-fpm
+
+## TODO
++ ownCloud fpm Version not work
