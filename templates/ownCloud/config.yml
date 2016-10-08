@@ -1,0 +1,5 @@
+name: owncloud test template 
+description: |
+  owncloud test template
+version: rancher
+category: Mytemplates

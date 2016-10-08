@@ -1,0 +1,11 @@
+owncloud:
+  image: owncloud:${owncloud_ver}
+  ports:
+   - ${port}:80
+  links:
+    - db
+
+db:
+  image: mariadb
+  environment:
+    - MYSQL_ROOT_PASSWORD=password
